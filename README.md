@@ -1,9 +1,4 @@
-# Hi, I'm Shuai Li 👋
-
-> Exploring astronomy through code, one project at a time. 🔭
-
-你好！这里记录我在天文与编程之间的探索，以及计算机科学基础的学习过程。
-
+enter 
 ## What I'm exploring
 
 - 🔭 Astronomy and galaxy classification / 天文与星系分类
@@ -22,5 +17,4 @@
 - [ORCID: 0009-0006-7066-2941](https://orcid.org/0009-0006-7066-2941)
 
 ---
-
-保持好奇，慢慢积累。 / Stay curious. Keep learning.
+Stay curious. Keep learning.
